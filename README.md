@@ -38,3 +38,8 @@ From discovery to delivery, consumers can use TrueCar to explore new and used ve
 Founded in 2005, [TrueCar](https://www.truecar.com/) has built a trusted brand and a strong reputation for providing consumers with useful tools, research, market context and pricing transparency as they embark on their car-buying journey. The Company is bringing more of the purchasing process online by allowing consumers to find a new or used vehicle that is right for them, secure financing, sell or trade-in their current vehicle and complete their purchase with a reputable dealer all from the comfort of their home.
 
 
+##
+The Data consist of more than 10,000 entries.
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/df.png)
+
+
