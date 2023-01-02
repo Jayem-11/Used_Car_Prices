@@ -41,5 +41,44 @@ Founded in 2005, [TrueCar](https://www.truecar.com/) has built a trusted brand a
 ##
 The Data consist of more than 10,000 entries.
 ![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/df.png)
+## 
+
+### Database 
+- I used PostgreSQL to store the data scraped
+## 
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/database.png)
+
+### Data Visualzation with Power BI
+- [Link](https://app.powerbi.com/groups/me/reports/c6ea12d6-be64-4ee2-b66f-3773ceaeb40c/ReportSection?bookmarkGuid=902dc690-13cb-4264-a634-939f6cab8e97&bookmarkUsage=1&ctid=0765532a-06c1-4f0f-9f39-394689f5f8fe&fromEntryPoint=export) to PowerBi Dashboard
+## 
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/powerbi_visuals.png)
+
+## 
+## <span id="ml">B. Machine Learning </span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
