@@ -25,3 +25,16 @@ The system Predicts used car prices using Artificial Nueral Networks based on da
 - Keras
 - Streamlit
 
+
+## <span id="dt">A. Data </span>
+
+- Check-out notebook:  [@notebook](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/scrap_data_from_web.ipynb)
+
+## 
+The used car dataset is obtained from Truecar which is a leading automotive digital marketplace that seeks to make car buying and selling easy, transparent and efficient.
+
+From discovery to delivery, consumers can use TrueCar to explore new and used vehicles from an expansive, cross-brand selection of inventory from our vast network of Certified Dealers.
+
+Founded in 2005, [TrueCar](https://www.truecar.com/) has built a trusted brand and a strong reputation for providing consumers with useful tools, research, market context and pricing transparency as they embark on their car-buying journey. The Company is bringing more of the purchasing process online by allowing consumers to find a new or used vehicle that is right for them, secure financing, sell or trade-in their current vehicle and complete their purchase with a reputable dealer all from the comfort of their home.
+
+
