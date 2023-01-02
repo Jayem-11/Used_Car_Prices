@@ -67,7 +67,19 @@ The ANN model perforemed better on the data compared to the linear regression mo
 ![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Machine_learning/result.png)
 
 
-- Since our mean absoulute error is 5802, it means we are off by about 19% from the mean. ANN model is better than Linear regression model since it has a lower error from the mean
+- Since our mean absoulute error is around 6000, it means we are off by about 20% from the mean. ANN model is better than Linear regression model since it has a lower error from the mean
+
+## <span id="dp"> C. Deploying </span>
+
+- Deployed at: https://jayem-11-used-car-prices-main-77qw4p.streamlit.app/
+
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed1.png)
+
+## 
+
+- Hit the predict button to input the data to the model. The outcome is as shown below.
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed2.png)
+
 
 
 
