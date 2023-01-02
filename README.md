@@ -25,6 +25,10 @@ The system Predicts used car prices using Artificial Nueral Networks based on da
 - Keras
 - Streamlit
 
+## Design
+
+![Design](https://github.com/Jayem-11/Used_Car_Prices/blob/main/design.jpg)
+
 
 ## <span id="dt">A. Data </span>
 
