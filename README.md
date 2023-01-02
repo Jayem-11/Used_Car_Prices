@@ -25,3 +25,91 @@ The system Predicts used car prices using Artificial Nueral Networks based on da
 - Keras
 - Streamlit
 
+## Design
+
+![Design](https://github.com/Jayem-11/Used_Car_Prices/blob/main/design.jpg)
+
+
+## <span id="dt">A. Data </span>
+
+- Check-out notebook:  [@notebook](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/scrap_data_from_web.ipynb)
+
+## 
+The used car dataset is obtained from Truecar which is a leading automotive digital marketplace that seeks to make car buying and selling easy, transparent and efficient.
+
+From discovery to delivery, consumers can use TrueCar to explore new and used vehicles from an expansive, cross-brand selection of inventory from our vast network of Certified Dealers.
+
+Founded in 2005, [TrueCar](https://www.truecar.com/) has built a trusted brand and a strong reputation for providing consumers with useful tools, research, market context and pricing transparency as they embark on their car-buying journey. The Company is bringing more of the purchasing process online by allowing consumers to find a new or used vehicle that is right for them, secure financing, sell or trade-in their current vehicle and complete their purchase with a reputable dealer all from the comfort of their home.
+
+
+##
+The Data consist of more than 10,000 entries.
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/df.png)
+## 
+
+### Database 
+- I used PostgreSQL to store the data scraped
+## 
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/database.png)
+
+### Data Visualzation with Power BI
+- [Link](https://app.powerbi.com/groups/me/reports/c6ea12d6-be64-4ee2-b66f-3773ceaeb40c/ReportSection?bookmarkGuid=902dc690-13cb-4264-a634-939f6cab8e97&bookmarkUsage=1&ctid=0765532a-06c1-4f0f-9f39-394689f5f8fe&fromEntryPoint=export) to PowerBi Dashboard
+## 
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Data/powerbi_visuals.png)
+
+## 
+## <span id="ml">B. Machine Learning </span>
+
+- Check-out notebook:  [@notebook](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Machine_learning/used_car_prices.ipynb)
+
+### Model
+
+The ANN model perforemed better on the data compared to the linear regression model.
+
+### Evaluation
+
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Machine_learning/result.png)
+
+
+- Since our mean absoulute error is around 6000, it means we are off by about 20% from the mean. ANN model is better than Linear regression model since it has a lower error from the mean
+
+## <span id="dp"> C. Deploying </span>
+
+- Deployed at: https://jayem-11-used-car-prices-main-77qw4p.streamlit.app/
+
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed1.png)
+
+## 
+
+- Hit the predict button to input the data to the model. The outcome is as shown below.
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/deployed2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
