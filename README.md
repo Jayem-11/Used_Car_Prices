@@ -56,6 +56,21 @@ The Data consist of more than 10,000 entries.
 ## 
 ## <span id="ml">B. Machine Learning </span>
 
+- Check-out notebook:  [@notebook](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Machine_learning/used_car_prices.ipynb)
+
+### Model
+
+The ANN model perforemed better on the data compared to the linear regression model.
+
+### Evaluation
+
+![Jupyter notebook example](https://github.com/Jayem-11/Used_Car_Prices/blob/main/Machine_learning/result.png)
+
+
+- Since our mean absoulute error is 5802, it means we are off by about 19% from the mean. ANN model is better than Linear regression model since it has a lower error from the mean
+
+
+
 
 
 
